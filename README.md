@@ -27,7 +27,7 @@ A modern solution for automated hotel check-in/check-out using self-service kios
 ### Installation
 
 1. Clone the repository:
-    git clone https://github.com/poey11/ITISDEV-MP.git
+    git clone https://github.com/alexikyna/ITISDEV2.git
     cd itisdev-mp
 
 2. Install dependencies for both frontend and backend:
